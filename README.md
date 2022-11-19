@@ -1,6 +1,7 @@
 ### Oi! Eu sou o Fernando Sousa
 
 - 👾 Atualmente estou estudando Vue.js
+- 💻 Desenvolvedor Back-end
 - 🤖 Desenvolvo API's ultilizando Java
 <div align="center">
   <a href="https://github.com/fernanddo-s">
