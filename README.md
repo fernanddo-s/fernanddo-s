@@ -1,9 +1,9 @@
 ### Oi! Eu sou o Fernando Sousa
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
+- 💻 Desenvolvedor Full Stack com foco em Back-end
+- 🤖 Desenvolvo API's em Java
 - 👾 Atualmente estou estudando Vue.js
-- 💻 Desenvolvedor Back-end
-- 🤖 Desenvolvo API's ultilizando Java
 <div align="center">
   <a href="https://github.com/fernanddo-s">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernanddo-s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
