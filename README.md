@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Fernando Sousa
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-- 💻 Desenvolvedor Full Stack com foco em Back-end
+- 💻 Desenvolvedor Full Stack
 - 🤖 Desenvolvo API's em Java
 - 👾 Atualmente estou estudando Vue.js
 <div align="center">
