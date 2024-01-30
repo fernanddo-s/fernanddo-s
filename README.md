@@ -3,7 +3,7 @@
 
 - 💻 Desenvolvedor Full Stack
 - 🤖 Desenvolvo API's em Java
-- 👾 Atualmente estou estudando Vue.js
+- 👾 Front-end em Vue.js
 
 <div align="center">
   <a href="https://github.com/fernanddo-s">
